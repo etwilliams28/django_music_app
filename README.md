@@ -1,1 +1,1 @@
-# django_music_sharingapp
+# django_music_app
